@@ -32,6 +32,7 @@ The model is a **Convolutional Neural Network (CNN)** consisting of:
 
 
 
+
 ## 🧠 Architecture Diagram
 
 ![Architecture Diagram](architecture_diagram.png)
@@ -43,6 +44,7 @@ The model is a **Convolutional Neural Network (CNN)** consisting of:
 Draw a digit in a GUI window and the model will predict it in real time using OpenCV and Pygame.
 
 ![Demo Output](Output.gif)
+
 
 
 ## 📈 Model Accuracy:
