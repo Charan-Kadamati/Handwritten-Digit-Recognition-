@@ -2,7 +2,7 @@
 
 This project demonstrates a real-time handwritten digit recognition system using a Convolutional Neural Network (CNN), trained on the popular MNIST dataset and deployed using **Pygame**.
 
-![Demo](https://github.com/YOUR_USERNAME/handwritten-digit-recognition/assets/demo.gif) <!-- Optional -->
+![Demo](https://github.com/Charan-Kadamati/handwritten-digit-recognition/assets/demo.gif) <!-- Optional -->
 
 ---
 
