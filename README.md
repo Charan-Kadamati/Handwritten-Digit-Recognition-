@@ -52,7 +52,7 @@ Draw a digit in a GUI window and the model will predict it in real time using Op
 
 ```bash
 # 1. Clone this repository
-git clone https://github.com/YOUR_USERNAME/handwritten-digit-recognition.git
+git clone https://github.com/Charan-Kadamati/handwritten-digit-recognition.git
 cd handwritten-digit-recognition
 
 # 2. Create a virtual environment (recommended)
