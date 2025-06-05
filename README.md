@@ -38,12 +38,22 @@ The model is a **Convolutional Neural Network (CNN)** consisting of:
 
 
 
-
 ## 🕹️ Live Demo App (Pygame)
 
 Draw a digit in a GUI window and the model will predict it in real time using OpenCV and Pygame.
 
 ![Demo Output](Output.gif)
+
+
+## 📈 Model Accuracy:
+Our CNN model achieves an impressive accuracy of ~99% on the MNIST test dataset, demonstrating its robustness in recognizing handwritten digits with high precision.
+
+
+## 🌟 Special Features
+
+Real-Time Prediction: Integrated with a Pygame-based GUI where users can draw digits and instantly receive predictions.
+
+Lightweight & Fast: The model is optimized for speed and can run efficiently even on systems with modest hardware.
 
 
 ---
